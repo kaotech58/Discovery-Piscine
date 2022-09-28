@@ -1,0 +1,18 @@
+body {
+	margin: 0px;
+}
+table {
+	width: 100%;
+	height: 100vh;
+	border-collapse: collapse;
+}
+td {
+	border: 1px solid;
+	border-color: black;
+}
+td.left {
+	background-color: orange;
+}
+td.right {
+	background-color: red;
+}
